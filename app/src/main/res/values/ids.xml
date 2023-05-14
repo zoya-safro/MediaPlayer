@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="btnResume" type="id" />
+    <item name="btnPause" type="id" />
+    <item name="btnStop" type="id" />
+    <item name="btnForward" type="id" />
+    <item name="btnBack" type="id" />
+    <item name="play" type="id" />
+    <item name="stop" type="id" />
+    <item name="fabBack" type="id" />
+    <item name="fabRepeat" type="id" />
+</resources>
